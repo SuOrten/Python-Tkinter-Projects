@@ -3,7 +3,7 @@ from  configparser import ConfigParser
 from tkinter import  messagebox
 import requests
 
-url_api = "https://api.openweathermap.org/data/2.5/weather?q={}&appid={}"
+url_api = "enter api key"
 
 api_file = 'weather.key'
 file_a = ConfigParser()
